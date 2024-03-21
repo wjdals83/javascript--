@@ -26,3 +26,5 @@ else
 
 num % 2 == 0 && console.log("짝수입니다.");
 num % 2 == 0 || console.log("홀수입니다.");
+
+// 깃허브 연동 test
