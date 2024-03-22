@@ -12,4 +12,9 @@ dog.name = '두부';
 
 dog.age = 3;
 
+// 프로퍼티 삭제
+// delete 연산자는 객체의 프로퍼티를 삭제한다.
+
+delete dog.age;
+
 console.log(dog);
